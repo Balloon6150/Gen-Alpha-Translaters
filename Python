@@ -1,0 +1,159 @@
+print("Complete Dictionary of the Gen Alpha Slang")
+Number1 = input("Would you like to see all words (1), or enter the word and find the definitition(2)")
+if Number1 == "1":
+    print("You chose full list of words;")
+    print("A")
+    print("Aura")
+    print("B")
+    print("Bruh")
+    print("Blud")
+    print("Bussin")
+    print("Brain-Rot")
+    print("C")
+    print("Cap")
+    print("D")
+    print("Drip")
+    print("E")
+    print("Edging")
+    print("F")
+    print("Fam")
+    print("Flex")
+    print("Fanum Tax")
+    print("G")
+    print("Goat")
+    print("Glaze")
+    print("Gyatt")
+    print("H")
+    print("Hits Different")
+    print("Halk Tuah")
+    print("I")
+    print("Ick")
+    print("J")
+    print("Just Put the Fries in the Bag")
+    print("K")
+    print("L")
+    print("Lit")
+    print("Low Key")
+    print("L Rizz")
+    print("M")
+    print("Mog")
+    print("Mewing")
+    print("N")
+    print("NGL")
+    print("No Cap")
+    print("Noob")
+    print("Negative Aura")
+    print("O")
+    print("OG")
+    print("Opp")
+    print("Ohio")
+    print("P")
+    print("Pookie")
+    print("It's giving...")
+    print("R")
+    print("Rizz")
+    print("S")
+    print("Sheesh")
+    print("Sus")
+    print("Sigma")
+    print("Skibidi")
+    print("Skibidi Rizz")
+    print("Skibidi Slicers")
+    print("T")
+    print("Talk Tuah")
+    print("U")
+    print("V")
+    print("W")
+    print("W Rizz")
+    print("X")
+    print("Y")
+    print("Yap")
+    print("Yapanese")
+    print("Z")
+    print("Zang")
+if Number1 == "2":
+    print("If you want the list of words restart the code and go to the word list.")
+    Number2 = input("Which word do you want to know the definition for?")
+    if Number2 =="Zang":
+        print("Remix of the word “dang.")
+    if Number2 =="Yappanese":
+        print("The language of talking too much")
+    if Number2 =="W Rizz":
+        print("Good Charisma")
+    if Number2 =="Talk Tuah":
+        print("A podcast with a girl talking about spitting on that thang")
+    if Number2 =="Skibidi Slicers" :
+        print("A meme created which talks about pizza")
+    if Number2 =="Skibidi Rizz":
+        print("Evil Rizz")
+    if Number2 =="Skibidi":
+        print("This slang, which could mean good, bad, cool, is named after the popular YouTube series called Skibidi Toilet by animator Alexey Gerasimov. Most of the videos show toilets with the heads of grown men spinning and talking while singing songs.")
+    if Number2 =="Sigma":
+        print("Very masculine and better")
+    if Number2 =="Sus":
+        print("Suspicious")
+    if Number2 =="Sheesh":
+        print("Another word for dang")
+    if Number2 =="Rizz":
+        print("Charisma")
+    if Number2 =="Pookie":
+        print("Another word for honey, like I love you honey, I Love you pookie")
+    if Number2 =="Ohio":
+        print("Strange")
+    if Number2 =="Opp":
+        print("Someone who hates you, an enenemy")
+    if Number2 =="OG":
+        print("OG, as in the original gangster, is someone who’s experienced and has been around for a long time.")
+    if Number2 =="Negative Aura":
+        print("This type of aura definitely isn’t related to layers of energy or feelings. In slang, it can mean not cool or relate to someone’s charm or attraction. “Aura points” can be gained or lost depending on your actions (e.g., falling down the stairs will give you negative 1,000 aura points). It’s more common in online commentary or TikTok videos than something you would say to someone’s face. This type of aura definitely isn’t related to layers of energy or feelings. In slang, it can mean not cool or relate to someone’s charm or attraction. “Aura points” can be gained or lost depending on your actions (e.g., falling down the stairs will give you negative 1,000 aura points). It’s more common in online commentary or TikTok videos than something you would say to someone’s face.")
+    if Number2 =="Noob":
+        print("Another word for someone who is new to something")
+    if Number2 =="No Cap":
+        print("Im not lying")
+    if Number2 =="NGL":
+        print("To pause before being honest. An example is: “Not gonna lie, she’s pretty.”")
+    if Number2 =="Mewing":
+        print("To improve the musclesa around the jaw to make the jawline more sharp and definined")
+    if Number2 =="Mog":
+        print("To look better than someone and steal the attention in the room")
+    if Number2 =="L Rizz":
+        print("Uncharasmatic")
+    if Number2 =="Lowkey":
+        print("Another way to say, im not lying but...")
+    if Number2 =="Lit":
+        print("Another way to say, damn... in a positive way")
+    if Number2 =="Just put the fries in the bag...":
+        print("A phrase which means, to get back to work, or mind your own business")
+    if Number2 =="Ick":
+        print("A word which means disgust insomething usually what someone does")
+    if Number2 =="Hits Different":
+        print("Self Explanitory")
+    if Number2 =="GOAT":
+        print("Means Greatest of all Time ")
+    if Number2 =="Glaze":
+        print("To steal someone attentsion")
+    if Number2 =="Gyatt":
+        print("Buttocks")
+    if Number2 =="Fam":
+        print("Fam is also known as a close friend.")
+    if Number2 =="Fanum Tax":
+        print("A way to steal a small percentage of someones food.")
+    if Number2 =="Flex":
+        print("To show off")
+    if Number2 =="Edging":
+        print("Look it up bro")
+    if Number2 =="Cap":
+        print("False")
+    if Number2 =="Drip":
+        print("Cool Clothing")
+    if Number2 =="Brain Rot":
+        print("Idiotic Videos")
+    if Number2 =="Bruh":
+        print("Another way to say; 'brother' or 'oh brother' ")
+    if Number2 =="Blud":
+        print("Slang term which means brother but less like family")
+    if Number2 =="Bussin":
+        print("Good")
+    if Number2 =="Aura":
+        print("This type of aura definitely isn’t related to layers of energy or feelings. In slang, it can mean not cool or to relate to someone’s charm or attraction. “Aura points” can be gained or lost depending on your actions (e.g., falling down the stairs will give you negative 1,000 aura points). It’s more common in online commentary or TikTok videos than something you would say to someone’s face.")
+    
